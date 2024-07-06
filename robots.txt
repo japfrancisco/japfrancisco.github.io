@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://japfrancisco.github.io/sitemap.xml
+Sitemap: https://japfrancisco.github.iojapfrancisco/sitemap.xml
